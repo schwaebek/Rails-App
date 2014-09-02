@@ -12,6 +12,7 @@
 		275BF73C19B5F9780043B86E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 275BF73A19B5F9780043B86E /* Main.storyboard */; };
 		275BF73E19B5F9780043B86E /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 275BF73D19B5F9780043B86E /* Images.xcassets */; };
 		275BF74A19B5F9780043B86E /* Rails_AppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 275BF74919B5F9780043B86E /* Rails_AppTests.swift */; };
+		275BF78319B63BC50043B86E /* Model.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 275BF78119B63BC40043B86E /* Model.xcdatamodeld */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,6 +35,7 @@
 		275BF74319B5F9780043B86E /* Rails AppTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Rails AppTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		275BF74819B5F9780043B86E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		275BF74919B5F9780043B86E /* Rails_AppTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Rails_AppTests.swift; sourceTree = "<group>"; };
+		275BF78219B63BC50043B86E /* Model.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Model.xcdatamodel; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +81,7 @@
 				275BF73819B5F9780043B86E /* ViewController.swift */,
 				275BF73A19B5F9780043B86E /* Main.storyboard */,
 				275BF73D19B5F9780043B86E /* Images.xcassets */,
+				275BF78119B63BC40043B86E /* Model.xcdatamodeld */,
 				275BF73419B5F9780043B86E /* Supporting Files */,
 			);
 			path = "Rails App";
@@ -210,6 +213,7 @@
 			files = (
 				275BF73919B5F9780043B86E /* ViewController.swift in Sources */,
 				275BF73719B5F9780043B86E /* AppDelegate.swift in Sources */,
+				275BF78319B63BC50043B86E /* Model.xcdatamodeld in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -405,6 +409,19 @@
 			defaultConfigurationIsVisible = 0;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCVersionGroup section */
+		275BF78119B63BC40043B86E /* Model.xcdatamodeld */ = {
+			isa = XCVersionGroup;
+			children = (
+				275BF78219B63BC50043B86E /* Model.xcdatamodel */,
+			);
+			currentVersion = 275BF78219B63BC50043B86E /* Model.xcdatamodel */;
+			path = Model.xcdatamodeld;
+			sourceTree = "<group>";
+			versionGroupType = wrapper.xcdatamodel;
+		};
+/* End XCVersionGroup section */
 	};
 	rootObject = 275BF72919B5F9780043B86E /* Project object */;
 }

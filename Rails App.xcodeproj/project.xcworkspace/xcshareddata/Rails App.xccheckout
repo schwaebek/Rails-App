@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>70036C5B-BD67-4393-9133-58B35A0A7F1F</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Rails App</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>7815D5E5FE6234D05305D9D5202B3AC9C8376461</key>
+		<string>https://github.com/schwaebek/Rails-App.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Rails App.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>7815D5E5FE6234D05305D9D5202B3AC9C8376461</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/schwaebek/Rails-App.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>7815D5E5FE6234D05305D9D5202B3AC9C8376461</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>7815D5E5FE6234D05305D9D5202B3AC9C8376461</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Rails%20App</string>
+		</dict>
+	</array>
+</dict>
+</plist>
